@@ -18,4 +18,5 @@ def using_flatten(instruments)
   new_array = instruments.flatten
 end
   
-def using delete()
+def using delete(instructors, "Steven")
+  
